@@ -32,3 +32,4 @@ Crea un repo como siempre, con los mismos hook husky que anteriormente
 -   Creamos la rama de trabajo:
 -   Mergeamos con PR
 -   Conectamos con Netlify
+-   Added JS
