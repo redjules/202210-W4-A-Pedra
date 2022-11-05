@@ -1,0 +1,22 @@
+{
+    "name": "challenge-week-4",
+    "version": "1.0.0",
+    "description": "Creamos un modulo con una función strictEquals",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "husky install"
+    },
+    "author": "Michael",
+    "license": "ISC",
+    "prettier": {
+        "singleQuote": true
+    },
+    "type": "module",
+    "devDependencies": {
+        "eslint": "^8.26.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.26.0",
+        "husky": "^8.0.0"
+    }
+}
